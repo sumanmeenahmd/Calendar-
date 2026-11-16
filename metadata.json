@@ -1,0 +1,6 @@
+{
+  "name": "Daybook Calendar",
+  "description": "A clean, fast calendar and schedule planner with month, week, day, and agenda views, recurring events, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
